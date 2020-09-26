@@ -1,0 +1,58 @@
+=The Unofficial GTS TGD Errata and Clarification file
+[#top]
+,,,,,
+==Rules
+===Heavy Barrage
+Does the Night modifier on Fire Rating affect the ability for an indirect fire attack to generate Heavy Barrage? 
+Barrage status is determined by the fire rating plus modifiers due to markers, and company bonus (if attained). Weather/time (night) has no impact. [CSW, Nick Richardson, http://talk.consimworld.com/WebX?14@@.1dda6eb2/5217 ]
+
+===Assault
+====Bravery calculation
+ . The terrain used as modifier for the bravery check is the terrain of the defending unit used to determine the bravery check. [CSW, Tom Holliday reports on discussion he had on this point with Nick Richardson, http://talk.consimworld.com/WebX/.1dda6eb2/6087 ]
+ . For the bravery check you take the (modified) defense strength of *either* the defending hex *or* a hex that exerts a FZ on the Assaulting units, which ever is best. [CSW, Nick Richardson, http://talk.consimworld.com/WebX?14@@.1dda6eb2/5328 ]
+
+The steps to follow are: 
+. Identify all eligible defender units (those in the assaulted hex plus all those that have a FZ on the assaulting unit's hex.
+. For each calculate the (modified) defense strength (this includes terrain modifier,  IP, ENT, Column, bocage, para/glider delay)
+. Add the lowest resulting (modified) defense strength to the Bravery value of the assaulting units
+
+===Organic Transport
+Examples of movements that cause loss of Organic Transport:
+Note that the capitalized word Road stands for all types of road, railroad, causeway, sunken road, elevated road.
+
+. Crossing a stream hexside (except when in column mode and there is a Raod crossing that hexside). Note that Road Blocks on either side of the stream hexside cancels the effect of the Road).
+. Entering a wood hex through an hexside that does not contain a Road. Note that Road Blocks on either side (?? or only on the entered hex??) of the hexside cancels the effect of the Road).
+  Note that as the rule stands, moving from a wood hex to a clear hex though a hexside that does not contain a Road does not cause Abandoned Transport.
+
+===Divisional Trucks / Jeeps
+Can divisional truck that was dismounted from a unit in a chit activation be reused in the same chit activation phase by another active unit?
+
+===Phone Lines
+Rule 16.1 German phone lines says that the phone lines are cut when any naval unit rolls a 0 when bombarding any hex on the overlay. does this include the LCRs and LCSs? Yes [CSW, Adam Starkweather, http://talk.consimworld.com/WebX?14@@.1dda6eb2/1369 ]
+
+===Allied Air Power
+When a German 88 is put into an artillery park it retains its AA ability. [CSW, Adam Starkweather, http://talk.consimworld.com/WebX?14@@.1dda6eb2/1369 ]
+
+===Naval procedure
+Leaders that are in Landing Crafts do not provide command to any units. [CSW, Adam Starkweather, http://talk.consimworld.com/WebX?14@@.1dda6eb2/1369 ]
+
+===Bocage
+Q: Can a Nachhut with no movement allowance enter bocage?
+A: Yes, rule does not restrict any German units from entering bocage, as long as they can perform an Engineer Action.
+Ref: CSW,2566 Adam http://talk.consimworld.com/WebX?14@@.1dda6eb2/2633 Nachhuthen with or without movement points can enter Bocage
+
+===Opportunity Fire
+Q: When a stack moves, is opportunity fire triggered against each unit or only once against the whole stack. A:Only one unit. Ref: 14.7 Paraagraph 2 "If a moving stack triggers Opportunity Fire (see Rule 17.0), any Unit firing gets to target only one of the stacked Units, 
+but the Non-Active Player does get to choose which one."
+
+===Miscenalleous
+====Wittman
+Can be placed only when one of the s.SS-Pz.101 units has become active. This can occure when the approprieate Divisional Activation chit is pulled or during a Formation Activation if the unit is activated by the Leader. The placement of Wittman gives 4 FREE actions that replace (are not in addition to) the standard activation. (This is mentionned in the side note about Wittmann in page 42 near 16.2)
+
+ 
+==Scenarios
+==="The Black Baron" Learning Scenarios
+
+
+
+
