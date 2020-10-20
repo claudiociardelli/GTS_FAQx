@@ -1,6 +1,12 @@
 = The Unofficial GTS TGD Errata and Clarification file
 :toc: left
 [#top]
+
+The notes below are based on the follwoing reference documents
+GTS Series Rules version 2.0B
+TGD Exclusive Rules version
+TGD Scenario Book version
+
 ,,,,,
 == Rules
 === Heavy Barrage
@@ -29,6 +35,10 @@ Attacker TEM do not apply to Assault. Even positive ones (marsh, elevated road).
 footnote:[ http://talk.consimworld.com/WebX?14@@.1dda6eb2/2232[CSW 2173], Adam Starkweather]
 FZ to FZ modifier does not apply to the Assult fire, only to the Opportunity fire of the assault.
 footnote:[ http://talk.consimworld.com/WebX?14@@.1dda6eb2/1985[CSW 1931], Adam Starkweather]
+A colored AR number (not white nor black) replaces the FR for the Direct Fire Defensive Fire. THis rule is only for the Defensive Fire.
+The Attacker alawys fires once with its FR and once with its AR.
+footnote:[https://www.multimanpublishing.com/LinkClick.aspx?fileticket=ZGUKryxuq5U%3d&tabid=81[GTS Series rules 2.0b], 18.7.5D and 18.7.5E]
+
 
 === Organic Transport
 Examples of movements that cause loss of Organic Transport:
@@ -78,9 +88,11 @@ footnote:[https://www.multimanpublishing.com/LinkClick.aspx?fileticket=ZGUKryxuq
 [blue]_Does a unit lose its men at work when suffering a Suppression result._ +
 No... but in fact yes. It will lose it anyways when the unit rallies as the rule says that a unit loses its Men At Work marker when any other action is performed. As rallying is the only thing that the suppressed unit can do, you might as well remove the Men At Work marker when the Suppression occurs, after deciding not to convert the suppression to Cohesion Hit.
 
-
-
-=== Miscellaneous
+=== Random Events
+==== Historical events vs Random Event 0 "Historical Event"
+The grey events in the Master Reinforcement Guides are intended for the Advanced Scenarios only. When playing the Campaign game, these events occur when Random Event 0 as per rule 6.0.
+The scenario book mentions this in the Events section at page 65. +
+footnote:[ http://talk.consimworld.com/WebX?14@@.1dda6eb2/4118[CSW 4011], Adam Starkweather]
 
 ==== "Lost" Random Event
 [blue]_Can a player select units in an artillery park for the Lost Event?)_ +
@@ -88,6 +100,8 @@ Yes, but the restriction of the Lost event (move to a hex a Unit could move to) 
 footnote:[http://talk.consimworld.com/WebX?14@@.1dda6eb2/5389[CSW 5257], Nick Richardson]
 footnote:[ http://talk.consimworld.com/WebX?14@@.1dda6eb2/3265[CSW 3180], Adam Starkweather]
 
+
+=== Miscellaneous
 
 ==== Wittman
 . Wittman can be placed only when one of the s.SS-Pz.101 units has become active. This can occur when the approprieate Divisional Activation chit is pulled or during a Formation Activation if the unit is activated by the Leader. The placement of Wittman gives 4 FREE actions that replace (are not in addition to) the standard activation.
@@ -124,3 +138,10 @@ Yes they do in the "Master Event Guide", page 65 to 67 of the Scenario Book
 footnote:[http://talk.consimworld.com/WebX?14@@.1dda6eb2/6243[CSW 6090], Lance Jones / Claudio Ciardelli  ] +
 [blue]_Advanced Scenarios do not provide instructions about how to handle Krug across the 3 areas_
 footnote:[http://talk.consimworld.com/WebX?14@@.1dda6eb2/6155[CSW 6003] Florian RIchter  http://talk.consimworld.com/WebX?7@@.1dda6eb2/6200[CSW 6044], Richard Hartland ]
+
+=== Master Reinforcements Guides
+Ignore the entry "Night, June 6, 1944 - J. Add 10 Nachhut and 6 Sperre markers to the
+12.SS-Panzer-Division Display." These are already added on the reinforcement schedule on 0700, June 6, 1944.
+footnote:errata[]
+footnote:[ http://talk.consimworld.com/WebX?14@@.1dda6eb2/2957[CSW 2880], Adam Starkweather]
+
